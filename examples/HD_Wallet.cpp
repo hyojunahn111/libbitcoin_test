@@ -1,4 +1,4 @@
-#include <bitcoin/bitcoin.hpp>
+#include <bitcoin/system.hpp>
 #include <string>
 #include <iostream>
 

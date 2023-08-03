@@ -1,7 +1,7 @@
-#include <bitcoin/bitcoin.hpp>
+#include <bitcoin/system.hpp>
 #include <string.h>
 #include <iostream>
-#include "aaa.cpp"
+#include "HD_Wallet.cpp"
 
 using namespace bc;
 
